@@ -16,3 +16,11 @@ DB scheme:
 Список компьютеров с заданным типом центрального процессора (Intel Core i5):
 
 ![doc_2022-04-19_12-14-01](https://user-images.githubusercontent.com/84966031/163971404-3d775380-136a-46fe-b20e-1ef3902a5e06.png)
+
+Список компьютеров с установленным ПО (Unity):
+
+![doc_2022-04-19_12-16-28](https://user-images.githubusercontent.com/84966031/163971890-ec59f0f5-269a-489f-902e-947b1d6c56b1.png)
+
+Список компьютеров с истекшим гарантийным сроком:
+
+![image_2022-04-19_12-17-43](https://user-images.githubusercontent.com/84966031/163972122-f4fd6a5f-696e-451e-8598-0d08cbba48ad.png)
