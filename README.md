@@ -13,6 +13,10 @@ DB scheme:
 
 ![image_2022-04-19_12-11-03](https://user-images.githubusercontent.com/84966031/163971009-4c7b179e-c4e2-4921-aad2-04d9c3eed69b.png)
 
+Главная страница:
+
+![image_2022-04-19_12-55-00](https://user-images.githubusercontent.com/84966031/163978862-ba018d45-b0f8-4e4a-ae91-7b6f53a70b05.png)
+
 Список компьютеров с заданным типом центрального процессора (Intel Core i5):
 
 ![doc_2022-04-19_12-14-01](https://user-images.githubusercontent.com/84966031/163971404-3d775380-136a-46fe-b20e-1ef3902a5e06.png)
