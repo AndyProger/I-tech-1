@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Хост: 127.0.0.1
--- Время создания: Мар 09 2022 г., 12:59
+-- Время создания: Мар 14 2022 г., 11:22
 -- Версия сервера: 10.4.22-MariaDB
 -- Версия PHP: 8.1.2
 
@@ -60,7 +60,8 @@ INSERT INTO `computer` (`id_computer`, `netname`, `motherboard`, `ram_capacity`,
 (14, 'name14', 'AMD X470/X370', 4, 5800000, 'Acer', 'vendor3', '2025-01-01', 1),
 (15, 'name15', 'AMD WRX80', 32, 700000, 'Samsung', 'vendor1', '2012-01-01', 4),
 (16, 'name16', 'AMD X570', 4, 200000, 'LG', 'vendor5', '2002-01-01', 6),
-(17, 'name17', 'Intel 600 Series', 32, 400000, 'Acer', 'vendor2', '2023-01-01', 9);
+(17, 'name17', 'Intel 600 Series', 32, 400000, 'Acer', 'vendor2', '2023-01-01', 9),
+(18, 'name18', 'AMD WRX80', 8, 1200000, 'Dell', 'vendor1', '2020-03-04', 2);
 
 -- --------------------------------------------------------
 
@@ -192,7 +193,7 @@ ALTER TABLE `software`
 -- AUTO_INCREMENT для таблицы `computer`
 --
 ALTER TABLE `computer`
-  MODIFY `id_computer` int(10) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=18;
+  MODIFY `id_computer` int(10) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=19;
 
 --
 -- AUTO_INCREMENT для таблицы `processor`

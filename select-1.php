@@ -11,11 +11,10 @@ try {
                         INNER JOIN processor p ON p.id_processor = c.fid_processor
                     WHERE p.name = '$item';";
 
-    $i = 0;
-    foreach($dbh->query($querySelect) as $row) {
-        $i++;
-        echo "$i) $row[0]<br>";
-    }
+    echo '<ol>';
+    foreach($dbh->query($querySelect) as $row)
+        echo '<li class = "listItem">', $row[0], '</li>';
+    echo '</ol>';
 }
 catch(PDOException $ex) {
     echo $ex->GetMessage();
